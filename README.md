@@ -1,2 +1,56 @@
-#iNeuron started as a product development company, then launched its ed-tech division. We provide 360 degree solutions from learning to internship to finding a job, and the first ever educational OTT platform to upgrade your skill set.
-#I Have been considered for an internship with iNeuron for Shopping Cart project.
+## Simple ecommerce cart application [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart)
+
+<p align="center">
+
+  <img src="./readme-banner.png">
+</p>
+
+## Basic Overview - [Live Demo](https://react-shopping-cart-67954.firebaseapp.com/)
+
+<p align="left">
+
+  <img src="./sagar.jpg" width="380" height="90">
+</p>
+
+✈️ [Follow Sagar Gaud](https://www.linkedin.com/in/sagargaud332/)
+
+This simple shopping cart prototype shows how React with Typescript, React hooks, react Context and Styled Components can be used to build a friendly user experience with instant visual updates and scaleable code in ecommerce applications & there is no database.
+
+### Features
+
+- Add and remove products from the floating cart using.
+- Filter products by available sizes using Context Api.
+- Responsive design.
+
+<!--
+## Getting started
+
+Try playing with the code on CodeSandbox :)
+
+[![Edit app](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/74rykw70qq)
+ -->
+
+## Build/Run
+
+#### Requirements
+
+- Node.js
+- NPM
+
+```javascript
+
+/* First, Install the needed packages */
+npm install
+
+/* Then start the React app */
+npm start
+
+/* To run the tests */
+npm run test
+
+```
+
+<br/>
+<br/>
+
+<p>Thank you iNeuron.ai</p>         
