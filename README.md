@@ -7,10 +7,6 @@
 
 ## Basic Overview - [Live Demo](https://react-shopping-cart-67954.firebaseapp.com/)
 
-<p align="left">
-
-  <img src="./sagar.jpg" width="380" height="90">
-</p>
 
 ✈️ [Follow Sagar Gaud](https://www.linkedin.com/in/sagargaud332/)
 
