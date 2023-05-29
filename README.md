@@ -1,11 +1,10 @@
-## Simple ecommerce cart application [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart)
-
+## Simple ecommerce cart application
 <p align="center">
 
   <img src="./readme-banner.png">
 </p>
 
-## Basic Overview - [Live Demo](https://react-shopping-cart-67954.firebaseapp.com/)
+## Basic Overview - [Live Demo](https://shopping-cart-9b1a1.firebaseapp.com/)
 
 
 ✈️ [Follow Sagar Gaud](https://www.linkedin.com/in/sagargaud332/)
