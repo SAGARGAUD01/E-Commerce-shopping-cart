@@ -1,4 +1,5 @@
-## Simple ecommerce cart application
+## Simple ecommerce cart application [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)(https://app.circleci.com/pipelines/github/SAGARGAUD01/shopping-cart)
+
 <p align="center">
 
   <img src="./readme-banner.png">
