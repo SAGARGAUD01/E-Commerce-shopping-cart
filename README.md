@@ -47,6 +47,4 @@ npm run test
 ```
 
 <br/>
-<br/>
-
-<p>Thank you iNeuron.ai</p>         
+<br/> 
