@@ -5,7 +5,7 @@
   <img src="./readme-banner.png">
 </p>
 
-## Basic Overview - [Live Demo](https://shopping-cart-9b1a1.firebaseapp.com/)
+## Basic Overview - [Live Demo](https://react-shopping-cart-67954.web.app/)
 
 
 ✈️ [Follow Sagar Gaud](https://www.linkedin.com/in/sagargaud332/)
