@@ -10,7 +10,7 @@
 
 ✈️ [Follow Sagar Gaud](https://www.linkedin.com/in/sagargaud332/)
 
-This simple shopping cart prototype shows how React with Typescript, React hooks, react Context and Styled Components can be used to build a friendly user experience with instant visual updates and scaleable code in ecommerce applications & there is no database.
+This ia shopping cart prototype shows how React with Typescript, React hooks, react Context and Styled Components can be used to build a friendly user experience with instant visual updates and scaleable code in ecommerce applications & there is no database.
 
 ### Features
 
